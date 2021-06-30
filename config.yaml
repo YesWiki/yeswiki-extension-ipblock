@@ -1,0 +1,11 @@
+parameters:
+  # define forbidden countries
+  ipblock_blocked_countries:
+    - 'ID' # ID : Indonesie
+    - 'MY' # MY : Malaisie
+  # define blocked ips
+  ipblock_blocked_ips:
+  # for edit config action
+  ipblock_editable_config_params:
+    - 'ipblock_blocked_countries'
+    - 'ipblock_blocked_ips'
