@@ -12,5 +12,6 @@ $GLOBALS['translations'] = array_merge(
     array(
         'EDIT_CONFIG_HINT_ipblock_blocked_countries' => 'Tableau des pays bloqués (2 lettres par pays)',
         'EDIT_CONFIG_HINT_ipblock_blocked_ips' => 'Tableau des ips bloquées',
+        'EDIT_CONFIG_GROUP_IPBLOCK' => 'Blocage d\'adresses IP',
         )
 );
